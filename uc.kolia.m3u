@@ -5,6 +5,10 @@ http://cdn.ottg.tv/9195/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/7796/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=119&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pobeda"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/8934.png",Победа
 http://cdn.ottg.tv/8934/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=643&req_host=pkjX3BL
+#EXTINF:0,Primul în Moldova
+https://video.a-tv.md/hls/tv.m3u8
+#EXTINF:-1,Prime
+http://212.0.215.115:80/Prime/playlist.m3u8
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/2214.png",Первый HD
 http://cdn.ottg.tv/2214/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=76&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy-pl6"  group-title="Общие" tvg-logo="http://pl.ottg.tv:80/icon/8664.png",Первый +6
