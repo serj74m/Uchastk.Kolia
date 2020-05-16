@@ -1522,46 +1522,5 @@ http://212.0.215.115/UTV/playlist.m3u8
 http://212.0.215.115/AxialTV/playlist.m3u8
 #EXTINF:-1,Magic tv
 http://46.20.136.59/live3/_definst_/magictv/playlist.m3u8
-
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="russkaya-noch" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/8930.png",Русская ночь 18+
-http://cdn.ottg.tv/8930/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=353&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="nuart-tv" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/8917.png",Ню Арт HD 18+
-http://cdn.ottg.tv/8917/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=354&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="shalun" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/7065.png",Шалун HD 18+
-http://cdn.ottg.tv/7065/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=355&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="playboy-tv" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/6534.png",Playboy TV 18+
-http://cdn.ottg.tv/6534/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=356&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="candy" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/1.png",Candy HD 18+
-http://cdn.ottg.tv//video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=357&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="dorcel" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/3467.png",Dorcel HD 18+
-http://cdn.ottg.tv/3467/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=358&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="redlight-hd" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/5504.png",Redlight HD 18+
-http://cdn.ottg.tv/5504/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=359&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="hustler-hd" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/1971.png",Hustler HD 18+
-http://cdn.ottg.tv/1971/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=360&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="brazzers-tv-europe-ru" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/1143.png",Brazzers TV 18+
-http://cdn.ottg.tv/1143/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=361&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/8559.png",Penthouse Black HD 18+
-http://cdn.ottg.tv/8559/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=362&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/1.png",Penthouse HD2 18+
-http://cdn.ottg.tv//video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=363&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="penthouse-hd" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/6447.png",Pentouse Gold HD 18+
-http://cdn.ottg.tv/6447/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=364&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="private-tv" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/1265.png",Private HD 18+
-http://cdn.ottg.tv/1265/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=365&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/4639.png",Vivid Red HD 18+
-http://cdn.ottg.tv/4639/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=366&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/3567.png",PINKoTV 18+
-http://cdn.ottg.tv/3567/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=367&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/9259.png",SEXTOSENSO 18+
-http://cdn.ottg.tv/9259/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=368&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="barely-legal" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/5182.png",Barely Legal TV 18+
-http://cdn.ottg.tv/5182/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=369&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/1.png",XMUVI 18+
-http://cdn.ottg.tv//video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=370&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/3797.png",PriveTV 18+
-http://cdn.ottg.tv/3797/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=371&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="passionxxx" parent-code="0000" group-title="Для взрослых" tvg-logo="http://pl.ottg.tv:80/icon/6774.png",PassionXXX 18+
-http://cdn.ottg.tv/6774/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=372&req_host=pkjX3BL
 #EXTINF:-1,Kiss tv
 http://46.20.136.59/live3/_definst_/kiss/playlist.m3u8
