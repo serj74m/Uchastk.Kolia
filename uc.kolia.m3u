@@ -187,14 +187,6 @@ http://cdn.ottg.tv/4349/video.m3u8?username=serj74m&password=labuh74m&token=ced5
 http://cdn.ottg.tv/3700/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=174&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ntn-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4544.png",НТН
 http://cdn.ottg.tv/4544/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=175&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="9kanal-israel"  group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/6998.png",Channel 9 IL
-http://cdn.ottg.tv/6998/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=176&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id=""  group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/8247.png",Channel 11 IL
-http://cdn.ottg.tv/8247/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=177&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id=""  group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/5773.png",Channel 12 IL
-http://cdn.ottg.tv/5773/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=178&req_host=pkjX3BL
-#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id=""  group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/6635.png",Channel 13 IL
-http://cdn.ottg.tv/6635/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=179&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="discovery-ru"  group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8979.png",Discovery Channel HD
 http://cdn.ottg.tv/8979/video.m3u8?username=serj74m&password=labuh74m&token=ced5b4546c118d7a873a7f613e31cf98&ch_id=180&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="discovery-science"  group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/6482.png",Discovery Science HD
