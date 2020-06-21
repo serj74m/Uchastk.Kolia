@@ -1487,7 +1487,6 @@ http://cdn.ottg.tv/1112/video.m3u8?username=serj-74m&password=labuh74m&token=3c1
 http://cdn.ottg.tv/8006/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=849&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="amedia-hit"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/.png",Amedia Hit HD PREMIUM+
 http://cdn.ottg.tv/5150/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=850&req_host=pkjX3BL
-
 #EXTINF:278,1 крым
 http://85.143.191.135/42/f0541f135f40e645d4f245e93318d3190fe3d7d2/278/stream.m3u8
 #EXTINF:355,1 Республиканский HD
