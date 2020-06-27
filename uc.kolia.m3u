@@ -182,6 +182,14 @@ http://cdn.ottg.tv/4349/video.m3u8?username=serj-74m&password=labuh74m&token=3c1
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tet-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/3700.png",ТЕТ
 http://cdn.ottg.tv/3700/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=174&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ntn-ua"  group-title="Украина" tvg-logo="http://pl.ottg.tv:80/icon/4544.png",НТН
+http://cdn.ottg.tv/4544/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=175&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="9kanal-israel"  group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/6998.png",Channel 9 IL
+http://cdn.ottg.tv/6998/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=176&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id=""  group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/8247.png",Channel 11 IL
+http://cdn.ottg.tv/8247/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=177&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id=""  group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/5773.png",Channel 12 IL
+http://cdn.ottg.tv/5773/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=178&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id=""  group-title="Зарубежные" tvg-logo="http://pl.ottg.tv:80/icon/6635.png",Channel 13 IL
 http://cdn.ottg.tv/6635/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=179&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="discovery-ru"  group-title="Познавательные" tvg-logo="http://pl.ottg.tv:80/icon/8979.png",Discovery Channel HD
 http://cdn.ottg.tv/8979/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=180&req_host=pkjX3BL
@@ -1483,10 +1491,12 @@ http://cdn.ottg.tv/9348/video.m3u8?username=serj-74m&password=labuh74m&token=3c1
 http://cdn.ottg.tv/3013/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=847&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="amedia-premium"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/.png",Amedia Premium HD PREMIUM+
 http://cdn.ottg.tv/1112/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=848&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="amedia2"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/.png",Amedia 2 HD PREMUIM+
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="amedia2"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/.png",Amedia 2 HD PREMIUM+
 http://cdn.ottg.tv/8006/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=849&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="amedia-hit"  group-title="Кино" tvg-logo="http://pl.ottg.tv:80/icon/.png",Amedia Hit HD PREMIUM+
 http://cdn.ottg.tv/5150/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=850&req_host=pkjX3BL
+#EXTINF:-1 timeshift="0" catchup-days="0" catchup-type="flussonic" tvg-id="shakhtar-tv"  group-title="Спорт" tvg-logo="http://pl.ottg.tv:80/icon/.png",Шахтер ТВ
+http://cdn.ottg.tv/9987/video.m3u8?username=serj-74m&password=labuh74m&token=3c11c59ff20bffbd81fa5cd33547dd9b&ch_id=851&req_host=pkjX3BL
 #EXTINF:278,1 крым
 http://85.143.191.135/42/f0541f135f40e645d4f245e93318d3190fe3d7d2/278/stream.m3u8
 #EXTINF:355,1 Республиканский HD
