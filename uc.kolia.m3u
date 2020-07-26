@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="3",Первый FHD
-#EXTGRP:Общие
-http://e57d2345.russtv.net/iptv/PYZ8AENZ7ERDV2/2402/index.m3u8
 #EXTINF:0 tvg-rec="3",Первый HD
 #EXTGRP:Общие
 http://e57d2345.russtv.net/iptv/PYZ8AENZ7ERDV2/204/index.m3u8
