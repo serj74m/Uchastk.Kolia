@@ -617,15 +617,13 @@ http://myott.top/stream/DEKA6YA5JRN/399.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0,Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0,NRG 91 Music HD
+#EXTINF:30,NRG 91 Music HD
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:0,Stingray Alternative HD
 https://stirr.ott-channels.stingray.com/102/master.m3u8
-#EXTINF:0,Stingray Classic Rock HD
+#EXTINF:60,Stingray Classic Rock HD
 https://stirr.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:0,VESELJAK TV
-https://stream.veseljak.tv/hls/stream.m3u8
-#EXTINF:0,VEVO '70s (USA)
+#EXTINF:25,VEVO '70s (USA)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?sid=0895&deviceId=5f32f26bcd8aea00071240e5&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
 #EXTINF:0,VEVO Country (USA)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?sid=0892&deviceId=5da0d75e84830900098a1ea0&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
@@ -635,7 +633,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?sid=0890&deviceId=5da0d83f66c9700009b96d0e&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
 #EXTINF:0,VEVO Reggaetón & Trap (USA)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?sid=0888&deviceId=5f32f397795b750007706448&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-#EXTINF:0,Хип Хоп 359 TV
+#EXTINF:24,Хип Хоп 359 TV
 https://cdn3.invivo.bg/359t/tracks-v1a1/mono.m3u8
 #EXTINF:0,M2 HD
 http://live.m2.tv/hls2/720/stream.m3u8
@@ -781,7 +779,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w949252656_b750000.m3u8
 #EXTINF:0,CVR
 https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
-#EXTINF:0,Stingray Pop Adult HD
+#EXTINF:60,Stingray Pop Adult HD
 https://stirr.ott-channels.stingray.com/104/master.m3u8
 #EXTINF:0,Stingray Hit List HD
 https://stirr.ott-channels.stingray.com/107/master.m3u8
@@ -883,73 +881,21 @@ http://31.148.48.15:80/A1/index.m3u8?token=test
 http://myott.top/stream/DEKA6YA5JRN/117.m3u8
 #EXTINF:0,Amedia Hit HD
 http://myott.top/stream/DEKA6YA5JRN/162.m3u8
-#EXTINF:0,Amedia Premium HD
+#EXTINF:80,Amedia Premium HD
 http://myott.top/stream/DEKA6YA5JRN/151.m3u8
-#EXTINF:0,Bollywood
-https://stream-msk-10.ott.tricolor.tv:443/dtv/id640_MSKSG-PVR-1--Bollywood/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIzODA0MDkwMjMxNjA2NyIsImV4cCI6MTY3MDIyOTk4MiwiaHdpZCI6IjQ0ZDgyYTNhZGExNmFhNjU2OTljODFjNzEyMGM3MjZmNDIwOWUxNzJlYjBiY2VhMTQ0ZGI5ZWVkZDQyZGRhMWIiLCJsYXN0X3JlcV9kYXRlIjoxNjU3MzY1Mzk2LCJzZXNzaW9uX2lkIjoiZjIxZGY4Y2UxZjlhMzMzZjEzOGRlZjEwNGI5NDA5NzQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Iv_UF2yiIM5c8xtAK35qLIQfpGcj-AcuRxywV-A7QCc
-#EXTINF:0,Cartoons 90
-http://ip1.orgip.net/519/video.m3u8?token=C7e7f66b17
-#EXTINF:0,Cartoons Short
-http://ip1.orgip.net/521/video.m3u8?token=C7e7f66b17
-#EXTINF:0,Cinema
+#EXTINF:80,Cinema
 http://myott.top/stream/DEKA6YA5JRN/62.m3u8
-#EXTINF:0,CineMan Action
-http://ip1.orgip.net/689/video.m3u8?token=C7e7f66b17
-#EXTINF:0,CineMan Action HD
-http://myott.top/stream/DEKA6YA5JRN/351.m3u8
-#EXTINF:0,CineMan Comedy HD
-http://myott.top/stream/DEKA6YA5JRN/356.m3u8
-#EXTINF:0,CineMan HD
-http://myott.top/stream/DEKA6YA5JRN/349.m3u8
-#EXTINF:0,CineMan Marvel
-http://ip1.orgip.net/688/video.m3u8?token=C7e7f66b17
-#EXTINF:0,CineMan Marvel HD
-http://myott.top/stream/DEKA6YA5JRN/354.m3u8
-#EXTINF:0,CineMan Melodrama
-http://ip1.orgip.net/690/video.m3u8?token=C7e7f66b17
-#EXTINF:0,CineMan Thriller HD
-http://myott.top/stream/DEKA6YA5JRN/352.m3u8
-#EXTINF:0,CineMan Top HD
-http://myott.top/stream/DEKA6YA5JRN/350.m3u8
-#EXTINF:0,CineMan Катастрофы
-http://ip1.orgip.net/693/video.m3u8?token=C7e7f66b17
-#EXTINF:0,CineMan Комедия
-http://ip1.orgip.net/691/video.m3u8?token=C7e7f66b17
-#EXTINF:0,CineMan РуКино
-http://ip1.orgip.net/687/video.m3u8?token=C7e7f66b17
-#EXTINF:0,CineMan РуКино HD
-http://myott.top/stream/DEKA6YA5JRN/358.m3u8
-#EXTINF:0,CineMan РуКино HD
-http://myott.top/stream/57RNNIDQBP/358.m3u8
-#EXTINF:0,CineMan Сваты HD
-http://myott.top/stream/DEKA6YA5JRN/359.m3u8
-#EXTINF:0,CineMan Сваты HD
-http://myott.top/stream/57RNNIDQBP/359.m3u8
-#EXTINF:0,CineMan Симпсоны
-http://ip1.orgip.net/522/video.m3u8?token=C7e7f66b17
-#EXTINF:0,CineMan Ужасы
-http://ip1.orgip.net/692/video.m3u8?token=C7e7f66b17
-#EXTINF:0,CineMan Ужасы HD
-http://myott.top/stream/DEKA6YA5JRN/355.m3u8
 #EXTINF:0,Enter-фильм HD
 http://myott.top/stream/DEKA6YA5JRN/322.m3u8
-#EXTINF:0,FAN
+#EXTINF:80,FAN
 http://myott.top/stream/DEKA6YA5JRN/420.m3u8
-#EXTINF:0,FilmBox Arthouse
-http://myott.top/stream/DEKA6YA5JRN/308.m3u8
-#EXTINF:0,FilmBox Baltic
-http://myott.top/stream/DEKA6YA5JRN/307.m3u8
-#EXTINF:0,Fox HD
-http://myott.top/stream/DEKA6YA5JRN/182.m3u8
-#EXTINF:0,Fox Life HD
-http://myott.top/stream/DEKA6YA5JRN/129.m3u8
-#EXTINF:0,Fresh Adventure HD
+#EXTINF:80,Fresh Adventure HD
 http://myott.top/stream/DEKA6YA5JRN/432.m3u8
-#EXTINF:0,Fresh Cinema HD
+#EXTINF:80,Fresh Cinema HD
 http://myott.top/stream/DEKA6YA5JRN/423.m3u8
-#EXTINF:0,Fresh Comedy HD
+#EXTINF:80,Fresh Comedy HD
 http://myott.top/stream/DEKA6YA5JRN/426.m3u8
-#EXTINF:0,Fresh Family HD
+#EXTINF:80,Fresh Family HD
 http://myott.top/stream/DEKA6YA5JRN/427.m3u8
 #EXTINF:0,Fresh Fantastic HD
 http://myott.top/stream/DEKA6YA5JRN/429.m3u8
@@ -961,17 +907,17 @@ http://myott.top/stream/DEKA6YA5JRN/424.m3u8
 http://myott.top/stream/DEKA6YA5JRN/422.m3u8
 #EXTINF:0,Fresh Romantic HD
 http://myott.top/stream/DEKA6YA5JRN/433.m3u8
-#EXTINF:0,Fresh Series HD
+#EXTINF:80,Fresh Series HD
 http://myott.top/stream/DEKA6YA5JRN/430.m3u8
-#EXTINF:0,Fresh Thriller HD
+#EXTINF:80,Fresh Thriller HD
 http://myott.top/stream/DEKA6YA5JRN/434.m3u8
-#EXTINF:0,Fresh VHS HD
+#EXTINF:80,Fresh VHS HD
 http://myott.top/stream/DEKA6YA5JRN/428.m3u8
-#EXTINF:0,Hollywood HD
+#EXTINF:80,Hollywood HD
 http://myott.top/stream/DEKA6YA5JRN/268.m3u8
-#EXTINF:0,Kino 1 HD
+#EXTINF:80,Kino 1 HD
 http://myott.top/stream/DEKA6YA5JRN/395.m3u8
-#EXTINF:0,kino 13
+#EXTINF:30,kino 13
 https://v2.catcast.tv/content/40546/index.m3u8
 #EXTINF:0,Kinoman
 http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
@@ -981,23 +927,15 @@ https://livetv.mylifeisgood.ml/channels/paramount_channel
 http://myott.top/stream/DEKA6YA5JRN/167.m3u8
 #EXTINF:0,Paramount Comedy Россия
 http://138.201.67.145:8081/ParamountComedy/index.m3u8
-#EXTINF:0,Plan B HD
+#EXTINF:80,Plan B HD
 http://myott.top/stream/DEKA6YA5JRN/196.m3u8
-#EXTINF:0,Premiere HD 1
-http://ott.server-iptv.live/1651/video.m3u8?token=S933AAA01B
-#EXTINF:0,Premiere HD 2
-http://ott.server-iptv.live/1652/video.m3u8?token=S933AAA01B
-#EXTINF:0,Premiere HD 3
-http://ott.server-iptv.live/1653/video.m3u8?token=S933AAA01B
-#EXTINF:0,Premiere HD 4
-http://ott.server-iptv.live/1654/video.m3u8?token=S933AAA01B
-#EXTINF:0,red HD
+#EXTINF:80,red HD
 http://myott.top/stream/DEKA6YA5JRN/69.m3u8
 #EXTINF:0,sci-fi
 http://myott.top/stream/DEKA6YA5JRN/180.m3u8
-#EXTINF:0,Star Cinema HD
+#EXTINF:80,Star Cinema HD
 http://myott.top/stream/DEKA6YA5JRN/310.m3u8
-#EXTINF:0,Star Family HD
+#EXTINF:80,Star Family HD
 http://myott.top/stream/DEKA6YA5JRN/226.m3u8
 #EXTINF:0,Start Air HD
 https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
@@ -1017,7 +955,7 @@ http://myott.top/stream/DEKA6YA5JRN/123.m3u8
 https://livetv.mylifeisgood.ml/channels/tv1000ruskino.m3u8
 #EXTINF:0,ViP Comedy HD
 http://myott.top/stream/DEKA6YA5JRN/201.m3u8
-#EXTINF:0,ViP Megahit HD
+#EXTINF:80,ViP Megahit HD
 http://myott.top/stream/DEKA6YA5JRN/200.m3u8
 #EXTINF:0,ViP Premiere HD
 http://myott.top/stream/DEKA6YA5JRN/202.m3u8
@@ -1041,7 +979,7 @@ http://myott.top/stream/DEKA6YA5JRN/152.m3u8
 https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
 #EXTINF:0,Русский роман HD
 http://myott.top/stream/DEKA6YA5JRN/266.m3u8
-#EXTINF:0,Русский иллюзион
+#EXTINF:80,Русский иллюзион
 http://myott.top/stream/DEKA6YA5JRN/122.m3u8
 #EXTINF:0,Русский детектив
 http://myott.top/stream/DEKA6YA5JRN/204.m3u8
@@ -1065,7 +1003,7 @@ https://stream-msk-12.ott.tricolor.tv:443/dtv/id647_MSKSG-PVR-1--Pro_Love_HD/04/
 http://myott.top/stream/DEKA6YA5JRN/421.m3u8
 #EXTINF:0,Остросюжетное HD
 http://myott.top/stream/DEKA6YA5JRN/214.m3u8
-#EXTINF:0,НТВ Хит
+#EXTINF:60,3781
 https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
 #EXTINF:0,НТВ Стиль
 https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
@@ -1095,7 +1033,7 @@ http://myott.top/stream/DEKA6YA5JRN/74.m3u8
 http://myott.top/stream/DEKA6YA5JRN/126.m3u8
 #EXTINF:0,Киноужас HD
 http://myott.top/stream/DEKA6YA5JRN/278.m3u8
-#EXTINF:0,КиноТВ HD
+#EXTINF:80,КиноТВ HD
 http://myott.top/stream/DEKA6YA5JRN/221.m3u8
 #EXTINF:0,Киносемья HD
 http://myott.top/stream/DEKA6YA5JRN/170.m3u8
@@ -1135,29 +1073,21 @@ http://myott.top/stream/DEKA6YA5JRN/364.m3u8
 http://91.220.135.165:81/25/index.m3u8
 #EXTINF:0,КИНОСЕРИЯ
 http://91.220.135.165:81/26/index.m3u8
-#EXTINF:0,black HD
+#EXTINF:80,black HD
 http://myott.top/stream/DEKA6YA5JRN/263.m3u8
 #EXTINF:0,Премиальное HD
 http://213.172.73.133:8081/nimble_live/9008_%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_HD/playlist.m3u8
-#EXTINF:0,Kинозал 4
+#EXTINF:30,Kинозал 4
 https://v2.catcast.tv/content/39005/index.m3u8
-#EXTINF:0,Видеокассета VHS
+#EXTINF:30,Видеокассета VHS
 https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:0,Кино 1 International
+#EXTINF:30,Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,VIP Serial
 http://94.229.250.73:8008/play/a003
-#EXTINF:0,BCU Fantastic
-http://ip1.orgip.net/1606/video.m3u8?token=S933AAA01B
-#EXTINF:0,Остросюжетное HD ∆2
+#EXTINF:23,Остросюжетное HD ∆2
 http://213.172.73.133:8081/nimble_live/9009_%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%81%D1%8E%D0%B6%D0%B5%D1%82%D0%BD%D0%BE%D0%B5_HD/playlist.m3u8
-#EXTINF:0,BCU Cinema
-http://ip1.orgip.net/1602/video.m3u8?token=S933AAA01B
-#EXTINF:0,BCU Marvel
-http://ip1.orgip.net/1612/video.m3u8?token=S933AAA01B
-#EXTINF:0,BCU Premiere 1
-http://ip1.orgip.net/1614/video.m3u8?token=S933AAA01B
-#EXTINF:0,Enter-фільм
+#EXTINF:20,Enter-фільм
 http://31.43.48.248:7000/ch54/video.m3u8
 #EXTINF:0,Кино ТВ HD
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
@@ -1189,7 +1119,7 @@ https://livetv.mylifeisgood.ml/channels/tiji.m3u8
 http://176.74.80.162:8099/Tiji/index.m3u8
 #EXTINF:0,TiJi Россия
 http://myott.top/stream/DEKA6YA5JRN/111.m3u8
-#EXTINF:0,В гостях у сказки
+#EXTINF:80,В гостях у сказки
 http://myott.top/stream/DEKA6YA5JRN/93.m3u8
 #EXTINF:0,Канал О!
 http://myott.top/stream/DEKA6YA5JRN/60.m3u8
@@ -1283,7 +1213,7 @@ http://portal.ott.pink/watch/7494/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 http://myott.top/stream/DEKA6YA5JRN/273.m3u8
 #EXTINF:0,FREEДОМ
 http://portal.ott.pink/watch/7431/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:0,ICTV
+#EXTINF:30,ICTV
 http://portal.ott.pink/watch/13/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:0,NLO TV 2 HD
 http://myott.top/stream/DEKA6YA5JRN/115.m3u8
@@ -1335,7 +1265,7 @@ http://myott.top/stream/DEKA6YA5JRN/157.m3u8
 http://myott.top/stream/DEKA6YA5JRN/326.m3u8
 #EXTINF:0,ОЦЕ HD
 http://myott.top/stream/DEKA6YA5JRN/329.m3u8
-#EXTINF:0,Первый Городской (Одесса)
+#EXTINF:21,Первый Городской (Одесса)
 http://portal.ott.pink/watch/7408/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:0,ПлюсПлюс HD
 http://myott.top/stream/DEKA6YA5JRN/339.m3u8
@@ -1683,9 +1613,9 @@ https://livetv.mylifeisgood.ml/channels/2b94b1589912a6c47809032c1d44e36e.m3u8
 https://livetv.mylifeisgood.ml/channels/565d7e0291f8cb698d0f6d919977aed7.m3u8
 #EXTINF:0,Млечный путь 1
 https://livetv.mylifeisgood.ml/channels/9ba31553c7b80f525a4a7fdc1d437d7c.m3u8
-#EXTINF:0,Звезда 90
+#EXTINF:28,Звезда 90
 https://livetv.mylifeisgood.ml/channels/9e56945777f23245f68f7ba074a7ff33.m3u8
-#EXTINF:0,Дыра 31
+#EXTINF:28,Дыра 31
 https://livetv.mylifeisgood.ml/channels/59aeeed39af9b48140491bd2ab653e65.m3u8
 #EXTINF:0,Setanta Sports UA
 http://ott.server-iptv.live/222/video.m3u8?token=S933AAA01B
@@ -1699,10 +1629,8 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 http://nl4.iptv.monster/play/134/94447FD31B88A87/video.m3u8
 #EXTINF:0,Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
-#EXTINF:0,MySports 1 HD
+#EXTINF:30,MySports 1 HD
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:0,Red Booll HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
 #EXTINF:0,EDGEsport
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0,Dubai Racing HD
@@ -1805,7 +1733,7 @@ http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0,Мир PREMIUM
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:0,Известия ТВ
+#EXTINF:15,Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:0,Первый Тульский
 http://5.164.24.83/tula/1tv_low/index.m3u8
@@ -1929,7 +1857,7 @@ https://livebeta.publika.md/LIVE/P/1500.m3u8
 http://212.0.215.106:80/PublikaTV/mpegts
 #EXTINF:0,Moldova 1
 http://live.trm.md:1935/live/_definst_/MoldovaUnu1/chunklist_w866294327.m3u8
-#EXTINF:0,Moldova 2
+#EXTINF:29,Moldova 2
 http://live.trm.md:1935/live/_definst_/MoldovaDoi2/chunklist_w1306778223.m3u8
 #EXTINF:0,Canal 2
 http://91.230.214.75/LIVE/2/index.m3u8
