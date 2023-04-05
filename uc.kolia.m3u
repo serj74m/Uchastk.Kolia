@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:100,ПЕРВЫЙ КАНАЛ
-https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
 #EXTINF:0,Первый
 http://79.141.211.254:8000/Perviy
+#EXTINF:100,ПЕРВЫЙ КАНАЛ
+https://livetv.mylifeisgood.ml/channels/perviytest.m3u8
 #EXTINF:0,РОССИЯ 1
 http://79.141.211.254:8000/Russ1
 #EXTINF:0,РОССИЯ-24
