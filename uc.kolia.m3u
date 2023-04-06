@@ -3,6 +3,90 @@
 http://185.23.80.28:8080/Pervyj/index.m3u8
 #EXTINF:0,Первый
 http://79.141.211.254:8000/Perviy
+#EXTINF:-1,Первый канал
+http://185.23.80.28:8080/Pervyj/index.m3u8
+#EXTINF:-1,Россия 1 HD
+http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
+#EXTINF:-1,Россия 1
+http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Россия 1
+http://185.23.80.28:8080/Rossiya1/tracks-a1v1/playlist.m3u8
+#EXTINF:-1,Россия 1
+http://185.23.80.28:8080/Rossiya1/index.m3u8
+#EXTINF:-1,НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ HD
+http://185.23.80.28:8080/NTV/index.m3u8
+#EXTINF:-1,НТВ
+http://185.23.80.28:8080/NTV/tracks-a1v1/playlist.m3u8
+#EXTINF:-1,ТВЦ
+http://185.23.80.28:8080/TVCentr/tracks-a1v1/playlist.m3u8
+#EXTINF:-1,ТВЦ
+http://185.23.80.28:8080/TVCentr/index.m3u8
+#EXTINF:-1,Пятый канал
+http://185.23.80.28:8080/Pyatyj/index.m3u8
+#EXTINF:-1,Пятый канал
+http://185.23.80.28:8080/Pyatyj/tracks-a1v1/playlist.m3u8
+#EXTINF:-1,ТНТ HD
+http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ТНТ HD
+http://185.23.80.28:8080/TNT/index.m3u8
+#EXTINF:-1,ТНТ-International
+http://178.124.210.172:8000/play/a03d/index.m3u8
+#EXTINF:-1,ТНТ4
+http://185.23.80.28:8080/TNT4/index.m3u8
+#EXTINF:-1,ТНТ4
+http://185.23.80.28:8080/TNT4/tracks-a1v1/playlist.m3u8
+#EXTINF:-1,ТНТ4 Интернешнл
+https://sc.id-tv.kz/tnt4_36_37.m3u8
+#EXTINF:-1,СТС HD
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,СТС
+http://185.23.80.28:8080/STS/index.m3u8
+#EXTINF:-1,СТС
+http://31.146.176.94:80/CTC/index.m3u8
+#EXTINF:-1,СТС International
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1,Рен ТВ HD
+http://185.23.80.28:8080/REN/index.m3u8
+#EXTINF:-1,РЕН ТВ
+http://185.23.80.28:8080/REN/tracks-a1v1/playlist.m3u8
+#EXTINF:-1,Пятница!
+http://185.23.80.28:8080/Pyatnica/tracks-a1v1/playlist.m3u8
+#EXTINF:-1,Суббота!
+http://185.23.80.28:8080/Super/index.m3u8
+#EXTINF:-1,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир
+http://185.23.80.28:8080/MIR/tracks-a1v1/playlist.m3u8
+#EXTINF:-1,Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,Звезда
+http://46.19.100.174:4455/play/a006/index.m3u8
+#EXTINF:-1,Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1,Звезда
+http://185.23.80.28:8080/Zvezda/tracks-a1v1/playlist.m3u8
+#EXTINF:-1,Звезда+
+http://146.158.0.56/ZvezdaPlus/mono.m3u8
+#EXTINF:-1,Звезда+
+http://146.158.0.56:80/ZvezdaPlus/index.m3u8
+#EXTINF:-1,Звезда+
+http://146.158.0.56/ZvezdaPlus/tracks-a1v1/playlist.m3u8
+#EXTINF:-1,Домашний
+http://185.23.80.28:8080/Domashnij/tracks-a1v1/playlist.m3u8
+#EXTINF:-1,ЧЕ!
+http://185.23.80.28:8080/Che/index.m3u8
+#EXTINF:-1,Ю
+http://185.23.80.28:8080/Yu/index.m3u8
+#EXTINF:-1,Ю
+http://31.146.176.94:80/U/index.m3u8
+#EXTINF:-1,ТВ 3
+http://185.23.80.28:8080/TV3/index.m3u8
+#EXTINF:-1,СТС Love
+http://176.74.80.162:8099/CTCLove/index.m3u8
+#EXTINF:-1,СТС Love
+http://31.148.48.15:80/STS_Love/index.m3u8?token=test
 #EXTINF:0,РОССИЯ 1
 http://79.141.211.254:8000/Russ1
 #EXTINF:0,РОССИЯ-24
