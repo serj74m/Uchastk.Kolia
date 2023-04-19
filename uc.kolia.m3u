@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1,Первый канал
 http://185.23.80.28:8080/Pervyj/index.m3u8
+#EXTINF:-1,Первый канал HD
+http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:-1,Первый канал HD +4
+http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
+#EXTINF:-1,Первый канал Евразия
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz_540/chunks.m3u8
+#EXTINF:-1,Первый канал
+http://185.23.80.28:8080/Pervyj/index.m3u8
 #EXTINF:-1,Первый
 http://79.141.211.254:8000/Perviy
 #EXTINF:-1,Первый канал
