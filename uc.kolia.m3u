@@ -14,8 +14,6 @@ http://185.23.80.28:8080/Rossiya1/tracks-a1v1/playlist.m3u8
 #EXTINF:-1,Россия 1
 http://185.23.80.28:8080/Rossiya1/index.m3u8
 #EXTINF:-1,НТВ HD
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,НТВ HD
 http://185.23.80.28:8080/NTV/index.m3u8
 #EXTINF:-1,НТВ
 http://185.23.80.28:8080/NTV/tracks-a1v1/playlist.m3u8
@@ -103,8 +101,6 @@ http://79.141.211.254:8000/Sarafan
 http://79.141.211.254:8000/Friday
 #EXTINF:-1,НТВ SD
 http://79.141.211.254:8000/NTV
-#EXTINF:-1,НТВ
-http://ntv-hls-orig.cdnvideo.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,РЕН ТВ
 http://79.141.211.254:8000/RenTV
 #EXTINF:-1,СТС
@@ -205,8 +201,6 @@ http://autopilot.catcast.tv/content/39005/index.m3u8
 http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кинопоказ
 http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
-#EXTINF:-1,TV1000 Action HD
-http://176.74.80.162:8099/TV1000Action/index.m3u8
 #EXTINF:-1,TV 1000
 http://livetv.mylifeisgood.ml/channels/tv1000.m3u8
 #EXTINF:-1,TV1000 r
@@ -215,8 +209,6 @@ http://82.209.197.187:8080/udp/239.0.100.141:1234
 https://livetv.mylifeisgood.ml/channels/vip_comedy.m3u8
 #EXTINF:-1,V-Megahit
 https://livetv.mylifeisgood.ml/channels/vip_megahit.m3u8
-#EXTINF:-1,V-Serial
-https://livetv.mylifeisgood.ml/channels/vip_serial.m3u8
 #EXTINF:-1,TV XXI
 http://176.74.80.162:8099/TVXXI/index.m3u8
 #EXTINF:-1,BACKUS TV HD
@@ -309,22 +301,10 @@ http://185.78.112.46:8077/nnttv_hd/index.m3u8
 http://193.33.240.8:80/nnt/video.m3u8
 #EXTINF:-1,НТВ
 http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
-#EXTINF:-1,НТВ (Санкт-Петербург)
-http://ntv-hls-orig.cdnvideo.ru/ntv-spb/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ HD
 http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=orh6o
-#EXTINF:-1,НТВ HD
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ Мир
 http://92.46.127.146:8080/ntv/index.m3u8
-#EXTINF:-1,НТВ МолдоваНТВ Право
-http://ntv-hls-orig.cdnvideo.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,НТВ Сериал
-http://ntv-hls-orig.cdnvideo.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1,НТВ Стиль
-http://ntv-hls-orig.cdnvideo.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:-1,НТВ Хит
-http://ntv-hls-orig.cdnvideo.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТС Иркутск HD
 http://tv.streams.baikal-telecom.net/NTS/video.m3u8
 #EXTINF:-1,Новое ТВ
@@ -535,10 +515,6 @@ https://livetv.mylifeisgood.ml/channels/tnt4.m3u8
 https://livetv.mylifeisgood.ml/channels/che.m3u8
 #EXTINF:-1,Ю
 https://livetv.mylifeisgood.ml/channels/u_ott_tv.m3u8
-#EXTINF:-1,6 Соток HD
-http://myott.top/stream/DEKA6YA5JRN/405.m3u8
-#EXTINF:-1,365 дней ТВ
-http://myott.top/stream/DEKA6YA5JRN/70.m3u8
 #EXTINF:-1,Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,Da Vinci
@@ -553,8 +529,6 @@ http://myott.top/stream/DEKA6YA5JRN/90.m3u8
 https://livetv.mylifeisgood.ml/channels/discoverydtx.m3u8
 #EXTINF:-1,Food Network HD
 http://myott.top/stream/DEKA6YA5JRN/298.m3u8
-#EXTINF:-1,H2 HD
-http://myott.top/stream/DEKA6YA5JRN/65.m3u8
 #EXTINF:-1,HD Life
 https://livetv.mylifeisgood.ml/channels/hdlife.m3u8
 #EXTINF:-1,HDL HD
@@ -563,36 +537,22 @@ http://myott.top/stream/DEKA6YA5JRN/161.m3u8
 http://myott.top/stream/DEKA6YA5JRN/113.m3u8
 #EXTINF:-1,Insight TV HD
 http://myott.top/stream/DEKA6YA5JRN/361.m3u8
-#EXTINF:-1,Investigation Discovery
-http://myott.top/stream/DEKA6YA5JRN/205.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://myott.top/stream/DEKA6YA5JRN/149.m3u8
-#EXTINF:-1,National Geographic HD
-http://myott.top/stream/DEKA6YA5JRN/116.m3u8
 #EXTINF:-1,Quiz TV HD
 http://myott.top/stream/DEKA6YA5JRN/397.m3u8
-#EXTINF:-1,Russian Travel Guide HD
-http://myott.top/stream/DEKA6YA5JRN/164.m3u8
 #EXTINF:-1,TLC
 http://myott.top/stream/DEKA6YA5JRN/168.m3u8
 #EXTINF:-1,Top Secret
 https://livetv.mylifeisgood.ml/channels/sovsec127.m3u8
 #EXTINF:-1,Travel channel HD
 http://myott.top/stream/DEKA6YA5JRN/231.m3u8
-#EXTINF:-1,Travel+Adventure HD
-http://myott.top/stream/DEKA6YA5JRN/206.m3u8
 #EXTINF:-1,Viasat Explore
 http://myott.top/stream/DEKA6YA5JRN/239.m3u8
 #EXTINF:-1,Viasat Explore HD
 https://livetv.mylifeisgood.ml/channels/viasat_explore.m3u8
-#EXTINF:-1,Viasat History
-http://176.74.80.162:8099/ViasatHistory/index.m3u8
 #EXTINF:-1,Viasat History HD
 https://livetv.mylifeisgood.ml/channels/viasat_history.m3u8
-#EXTINF:-1,Viasat Nature
-http://176.74.80.162:8099/ViasatNature/index.m3u8
 #EXTINF:-1,Viasat Nature HD
 https://livetv.mylifeisgood.ml/channels/viasat_nature.m3u8
 #EXTINF:-1,Viasat Nature/History HD
@@ -603,8 +563,6 @@ http://iptv.prosto.tv:7000/ch319/video.m3u8?secret=7va3b5tb
 http://myott.top/stream/DEKA6YA5JRN/186.m3u8
 #EXTINF:-1,Авто24
 http://myott.top/stream/DEKA6YA5JRN/78.m3u8
-#EXTINF:-1,Автомобильный HD
-http://myott.top/stream/DEKA6YA5JRN/404.m3u8
 #EXTINF:-1,Бобер
 http://myott.top/stream/DEKA6YA5JRN/197.m3u8
 #EXTINF:-1,В мире животных HD
@@ -625,8 +583,6 @@ http://myott.top/stream/DEKA6YA5JRN/275.m3u8
 http://myott.top/stream/DEKA6YA5JRN/80.m3u8
 #EXTINF:-1,Еда Премиум HD
 http://myott.top/stream/DEKA6YA5JRN/216.m3u8
-#EXTINF:-1,Живая планета
-http://myott.top/stream/DEKA6YA5JRN/83.m3u8
 #EXTINF:-1,Живая природа
 https://livetv.mylifeisgood.ml/channels/jivyapriroda.m3u8
 #EXTINF:-1,Живая природа HD
@@ -639,16 +595,10 @@ https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
 http://myott.top/stream/DEKA6YA5JRN/406.m3u8
 #EXTINF:-1,История
 http://myott.top/stream/DEKA6YA5JRN/228.m3u8
-#EXTINF:-1,Кухня ТВ
-http://myott.top/stream/DEKA6YA5JRN/179.m3u8
-#EXTINF:-1,Мама
-http://myott.top/stream/DEKA6YA5JRN/79.m3u8
 #EXTINF:-1,Масон HD
 http://myott.top/stream/DEKA6YA5JRN/346.m3u8
 #EXTINF:-1,Мега HD
 http://myott.top/stream/DEKA6YA5JRN/325.m3u8
-#EXTINF:-1,Моя планета
-http://myott.top/stream/DEKA6YA5JRN/124.m3u8
 #EXTINF:-1,Моя стихия
 http://myott.top/stream/DEKA6YA5JRN/141.m3u8
 #EXTINF:-1,Нано ТВ HD
@@ -679,10 +629,6 @@ http://myott.top/stream/DEKA6YA5JRN/286.m3u8
 http://myott.top/stream/DEKA6YA5JRN/398.m3u8
 #EXTINF:-1,Тайны Галактики
 http://myott.top/stream/DEKA6YA5JRN/271.m3u8
-#EXTINF:-1,ТеRRa
-https://livetv.mylifeisgood.ml/channels/national_geographic.m3u8
-#EXTINF:-1,Терра
-http://myott.top/stream/DEKA6YA5JRN/402.m3u8
 #EXTINF:-1,Трофей HD
 http://myott.top/stream/DEKA6YA5JRN/357.m3u8
 #EXTINF:-1,Усадьба
@@ -725,8 +671,6 @@ https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:-1,Hits 360 HD
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1,MIXM TV
-https://live.prd.dlive.tv/hls/live/mixm.m3u8
 #EXTINF:-1,Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1,Первый Музыкальный
@@ -785,8 +729,6 @@ http://185.78.112.46:8077/priboy_tv_hd/index.m3u8
 http://54.38.156.56/live/stream/index.m3u8
 #EXTINF:-1,Reload Radio Music Power HD
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1,Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 #EXTINF:-1,Music Reload TV HD
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 #EXTINF:-1,Sonus FM
@@ -823,8 +765,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1,TVM 3
 https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
-#EXTINF:-1,Kiss Kiss Tv HD
-http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist.m3u8
 #EXTINF:-1,HiT-FM TV
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:-1,MTV Yo! HD
@@ -883,12 +823,8 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 #EXTINF:-1,Baraza Music HD
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1,BRIDGE
-http://myott.top/stream/DEKA6YA5JRN/318.m3u8
 #EXTINF:-1,BRIDGE CLASSIC
 http://myott.top/stream/DEKA6YA5JRN/272.m3u8
-#EXTINF:-1,BRIDGE DELUXE HD
-http://myott.top/stream/DEKA6YA5JRN/92.m3u8
 #EXTINF:-1,Bridge Hits
 https://livetv.mylifeisgood.ml/channels/bridgehitstv.m3u8
 #EXTINF:-1,Bridge TV
@@ -907,16 +843,10 @@ http://myott.top/stream/DEKA6YA5JRN/276.m3u8
 http://myott.top/stream/DEKA6YA5JRN/165.m3u8
 #EXTINF:-1,MTV 80s
 http://myott.top/stream/DEKA6YA5JRN/87.m3u8
-#EXTINF:-1,MTV 90s
-http://myott.top/stream/DEKA6YA5JRN/88.m3u8
 #EXTINF:-1,MTV Hits
 http://myott.top/stream/DEKA6YA5JRN/302.m3u8
-#EXTINF:-1,MTV Live HD
-http://myott.top/stream/DEKA6YA5JRN/215.m3u8
 #EXTINF:-1,MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1,Music Box Russian
-http://myott.top/stream/DEKA6YA5JRN/319.m3u8
 #EXTINF:-1,RU.TV
 http://myott.top/stream/DEKA6YA5JRN/109.m3u8
 #EXTINF:-1,Stingray CMusic HD
@@ -1087,42 +1017,20 @@ https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
 https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8
 #EXTINF:-1,НТВ Право
 https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
-#EXTINF:-1,НСТ
-http://myott.top/stream/DEKA6YA5JRN/207.m3u8
-#EXTINF:-1,Наше новое кино
-http://myott.top/stream/DEKA6YA5JRN/128.m3u8
-#EXTINF:-1,Наше мужское HD
-http://myott.top/stream/DEKA6YA5JRN/362.m3u8
 #EXTINF:-1,Наше любимое кино
 http://45.132.87.69:8080/nashelubimoe/index.m3u8
-#EXTINF:-1,Наше HD
-http://myott.top/stream/DEKA6YA5JRN/217.m3u8
-#EXTINF:-1,Мужское кино
-http://myott.top/stream/DEKA6YA5JRN/107.m3u8
 #EXTINF:-1,Мосфильм. Золотая коллекция HD
 http://myott.top/stream/DEKA6YA5JRN/369.m3u8
-#EXTINF:-1,Мир сериала
-http://myott.top/stream/DEKA6YA5JRN/159.m3u8
 #EXTINF:-1,Комедийное HD
 http://myott.top/stream/DEKA6YA5JRN/74.m3u8
-#EXTINF:-1,Кинохит HD
-http://myott.top/stream/DEKA6YA5JRN/126.m3u8
 #EXTINF:-1,Киноужас HD
 http://myott.top/stream/DEKA6YA5JRN/278.m3u8
-#EXTINF:-1,КиноТВ HD
-http://myott.top/stream/DEKA6YA5JRN/221.m3u8
 #EXTINF:-1,Киносемья HD
 http://myott.top/stream/DEKA6YA5JRN/170.m3u8
 #EXTINF:-1,Киносвидание
 http://myott.top/stream/DEKA6YA5JRN/171.m3u8
-#EXTINF:-1,Кинопремьера HD
-http://myott.top/stream/DEKA6YA5JRN/160.m3u8
 #EXTINF:-1,Кинопоказ HD
 http://myott.top/stream/DEKA6YA5JRN/64.m3u8
-#EXTINF:-1,Киномикс HD
-http://myott.top/stream/DEKA6YA5JRN/133.m3u8
-#EXTINF:-1,Кинокомедия HD
-http://myott.top/stream/DEKA6YA5JRN/265.m3u8
 #EXTINF:-1,Киноджем 2 HD
 http://ott.server-iptv.live/699/video.m3u8?token=S933AAA01B
 #EXTINF:-1,Киноджем 1 HD
@@ -1131,12 +1039,8 @@ http://ott.server-iptv.live/698/video.m3u8?token=S933AAA01B
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1,Индийское кино
 http://myott.top/stream/DEKA6YA5JRN/104.m3u8
-#EXTINF:-1,Еврокино HD
-http://myott.top/stream/DEKA6YA5JRN/385.m3u8
 #EXTINF:-1,Душевное HD
 http://myott.top/stream/DEKA6YA5JRN/213.m3u8
-#EXTINF:-1,Дорама HD
-http://myott.top/stream/DEKA6YA5JRN/412.m3u8
 #EXTINF:-1,Дом Кино Премиум HD
 http://myott.top/stream/DEKA6YA5JRN/108.m3u8
 #EXTINF:-1,Дом Кино
@@ -1171,20 +1075,14 @@ https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 http://ip1.orgip.net/618/video.m3u8?token=S933AAA01B
 #EXTINF:-1,Ani
 http://myott.top/stream/DEKA6YA5JRN/306.m3u8
-#EXTINF:-1,Cartoons Big HD
-http://myott.top/stream/DEKA6YA5JRN/348.m3u8
 #EXTINF:-1,Cartoons Short HD
 http://myott.top/stream/DEKA6YA5JRN/347.m3u8
 #EXTINF:-1,Da Vinci
 https://livetv.mylifeisgood.ml/channels/davinci.m3u8
 #EXTINF:-1,Disney Channel JP
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
-#EXTINF:-1,Fresh Kids HD
-http://myott.top/stream/DEKA6YA5JRN/425.m3u8
 #EXTINF:-1,Gulli Girl
 https://livetv.mylifeisgood.ml/channels/gulli.m3u8
-#EXTINF:-1,JimJam
-http://myott.top/stream/DEKA6YA5JRN/150.m3u8
 #EXTINF:-1,Nick Jr
 http://myott.top/stream/DEKA6YA5JRN/220.m3u8
 #EXTINF:-1,Nickelodeon HD
@@ -1197,14 +1095,10 @@ http://176.74.80.162:8099/Tiji/index.m3u8
 http://myott.top/stream/DEKA6YA5JRN/111.m3u8
 #EXTINF:-1,В гостях у сказки
 http://myott.top/stream/DEKA6YA5JRN/93.m3u8
-#EXTINF:-1,Канал О!
-http://myott.top/stream/DEKA6YA5JRN/60.m3u8
 #EXTINF:-1,Капитан Фантастика HD
 http://myott.top/stream/DEKA6YA5JRN/144.m3u8
 #EXTINF:-1,Карусель
 http://myott.top/stream/DEKA6YA5JRN/120.m3u8
-#EXTINF:-1,Мульт HD
-http://myott.top/stream/DEKA6YA5JRN/232.m3u8
 #EXTINF:-1,Мульт и музыка
 http://myott.top/stream/DEKA6YA5JRN/82.m3u8
 #EXTINF:-1,Пиксель HD
@@ -1263,8 +1157,6 @@ http://91.146.94.234:10001/play/a03k
 http://91.146.94.234:10001/play/a055
 #EXTINF:-1,Еспресо TV
 http://91.146.94.234:10001/play/a056
-#EXTINF:-1,1+1 HD
-http://myott.top/stream/DEKA6YA5JRN/172.m3u8
 #EXTINF:-1,1+1 International
 http://myott.top/stream/DEKA6YA5JRN/105.m3u8
 #EXTINF:-1,2+2 HD
@@ -1329,8 +1221,6 @@ http://myott.top/stream/DEKA6YA5JRN/270.m3u8
 http://myott.top/stream/DEKA6YA5JRN/324.m3u8
 #EXTINF:-1,Канал 24 HD
 http://portal.ott.pink/watch/324/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1,КАРАВАН-ТВ UA
-http://portal.ott.pink/watch/7382/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 #EXTINF:-1,Квартал ТВ
 http://myott.top/stream/DEKA6YA5JRN/321.m3u8
 #EXTINF:-1,Кус-кус HD
@@ -1535,32 +1425,18 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 https://livetv.mylifeisgood.ml/channels/kazsport.m3u8
 #EXTINF:-1,Setanta Sports 1
 http://ott.server-iptv.live/220/video.m3u8?token=S933AAA01B
-#EXTINF:-1,Setanta Sports HD UA
-http://myott.top/stream/DEKA6YA5JRN/313.m3u8
-#EXTINF:-1,Setanta Sports+ HD
-http://myott.top/stream/DEKA6YA5JRN/390.m3u8
 #EXTINF:-1,Sport 1
 http://myott.top/stream/DEKA6YA5JRN/391.m3u8
-#EXTINF:-1,Sport 1 Baltic
-http://myott.top/stream/DEKA6YA5JRN/394.m3u8
-#EXTINF:-1,Sport 1 HD
-http://myott.top/stream/DEKA6YA5JRN/393.m3u8
 #EXTINF:-1,Sport 2
 http://myott.top/stream/DEKA6YA5JRN/392.m3u8
 #EXTINF:-1,TV 3 Sport HD LT
 http://myott.top/stream/DEKA6YA5JRN/416.m3u8
-#EXTINF:-1,UDAR HD
-http://myott.top/stream/DEKA6YA5JRN/279.m3u8
 #EXTINF:-1,Viasat Sport Россия HD
 http://myott.top/stream/DEKA6YA5JRN/102.m3u8
-#EXTINF:-1,X Sport Plus HD
-http://myott.top/stream/DEKA6YA5JRN/332.m3u8
 #EXTINF:-1,XSport
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1,Матч! HD
 http://194.143.148.28:8080/MatchHD/mpegts
-#EXTINF:-1,Матч! Боец HD
-http://myott.top/stream/DEKA6YA5JRN/112.m3u8
 #EXTINF:-1,Матч! ФУТБОЛ 1 HD
 http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
 #EXTINF:-1,Матч! ФУТБОЛ 2 HD
@@ -1569,8 +1445,6 @@ http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
 http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 #EXTINF:-1,Моторспорт ТВ
 http://myott.top/stream/DEKA6YA5JRN/300.m3u8
-#EXTINF:-1,Русский экстрим HD
-http://myott.top/stream/DEKA6YA5JRN/285.m3u8
 #EXTINF:-1,Старт Триумф HD
 https://livetv.mylifeisgood.ml/channels/f212f85fdfe6a0f13a4cf54930216bee.m3u8
 #EXTINF:-1,Bein Sports 1 English
@@ -1857,8 +1731,6 @@ http://212.0.215.115/TVC21/mpegts
 http://212.0.215.106/AgroTV/mpegts
 #EXTINF:-1,Soroca tv
 http://212.0.215.106/SorTV/mpegts
-#EXTINF:-1,DROCHIA TV
-https://hls.drochia.tv/tv/web.m3u8
 #EXTINF:-1,TV8
 http://212.0.215.106/TV8/mpegts
 #EXTINF:-1,Cimislia TV
