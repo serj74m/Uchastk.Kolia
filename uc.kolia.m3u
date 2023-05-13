@@ -6,8 +6,6 @@ http://77.240.45.106:8888/play/a01a
 #EXTINF:-1,Первый канал
 http://77.240.45.106:18888/play/a01a
 #EXTINF:-1,Первый HD
-http://hez1-flu.iptvstream.site/5/tracks-v1a1/mono.m3u8?token=871576%2C%2C%2C1743737355
-#EXTINF:-1,Первый HD
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,Первый канал (+4)
 http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
@@ -17,16 +15,12 @@ http://176.222.190.76/btv/SWM/SWM_PervSNG/SWM_PervSNG.m3u8
 http://176.222.190.76/btv/SWM/SWM_PervyEuraz/SWM_PervyEuraz.m3u8
 #EXTINF:-1,Россия 1 HD
 http://188.68.16.246:43800/play/a03h
-#EXTINF:-1,Россия 1 HD
-http://hez1-flu.iptvstream.site/7/tracks-v1a1/mono.m3u8?token=871576%2C%2C%2C1743737355
 #EXTINF:-1,Россия 1
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Россия 1
 http://188.68.16.246:43800/play/a003
 #EXTINF:-1,Россия 1
 http://77.240.45.106:8888/play/a01b
-#EXTINF:-1,РТР Планета
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941?ext=.m3u8
 #EXTINF:-1,НТВ
 http://188.68.16.246:43800/play/a008
 #EXTINF:-1,НТВ
@@ -81,8 +75,6 @@ http://hlstv.kem.211.ru/239.211.200.194/stream.m3u8
 http://hlstv.kem.211.ru/239.211.200.44/stream.m3u8
 #EXTINF:-1,ТНТ HD
 http://45.159.74.13:80/THT/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ТНТ-International
-http://178.124.210.172:8000/play/a03d/index.m3u8
 #EXTINF:-1,ТНТ4 Интернешнл
 https://sc.id-tv.kz/tnt4_36_37.m3u8
 #EXTINF:-1,СТС HD
@@ -393,8 +385,6 @@ https://stream01.vnet.am/Fox/mono.m3u8
 https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
 #EXTINF:-1,Gagsnetwork
 http://176.74.80.162:8099/Gagsnetwork/index.m3u8
-#EXTINF:-1,Global Star TV
-http://stream2.hardlife.tv:8135/hls-live/hlsGS/_definst_/lq/gs.m3u8
 #EXTINF:-1,Gulli Girl
 http://live-3.otcnet.ru/Gulli_OT/index.m3u8
 #EXTINF:-1,IPTV Malder:Все ТВ
@@ -687,8 +677,6 @@ http://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1,Лен ТВ 24
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1280x720@2704/playlist.m3u8
-#EXTINF:-1,Липецкое Время
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
 #EXTINF:-1,Лотос 24 HD
 https://streaming.astrakhan.ru/live/vgtrk/index.m3u8
 #EXTINF:-1,Любимое кино
@@ -775,20 +763,14 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 https://livetv.mylifeisgood.ml/channels/otr24.m3u8
 #EXTINF:-1,Обком ТВ
 http://www.omsk-kprf.ru/hls/stream.m3u8
-#EXTINF:-1,Оплот
-http://31.133.57.158/hls/1234.m3u8
 #EXTINF:-1,Оружие
 https://livetv.mylifeisgood.ml/channels/oruzhie.m3u8
-#EXTINF:-1,Осетия-Ирыстон
-http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
 #EXTINF:-1,ПРНК
 http://serv25.vintera.tv:8081/1pnk/rezonans/playlist.m3u8
 #EXTINF:-1,Панорама ТВ (Тверь)
 http://stream.fastlnk.ru:88/Panorama_TV/index.m3u8
-#EXTINF:-1,Первый Городской (Гомель)
-http://hlss.goodgame.ru/hls/165178.m3u8
 #EXTINF:-1,Первый Музыкальный
 http://rtmp.one.by:1200
 #EXTINF:-1,Первый Музыкальный HD
@@ -1096,11 +1078,7 @@ https://osnmedia.servicecdn.ru/streams/17603_88089/720n/index.m3u8
 #EXTINF:-1,ОТР
 http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o
 #EXTINF:-1,Оплот
-http://31.133.57.158/hls/1234.m3u8
-#EXTINF:-1,Оплот
 http://ott.inmart.tv:8081/54/index.m3u8
-#EXTINF:-1,ОружиеОсетия-Ирыстон
-http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Первый Музыкальный
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1,Первый Музыкальный
@@ -1341,8 +1319,6 @@ http://myott.top/stream/DEKA6YA5JRN/225.m3u8
 http://myott.top/stream/DEKA6YA5JRN/132.m3u8
 #EXTINF:-1,Загородный Int
 https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
-#EXTINF:-1,Закон HD
-http://myott.top/stream/DEKA6YA5JRN/406.m3u8
 #EXTINF:-1,История
 http://myott.top/stream/DEKA6YA5JRN/228.m3u8
 #EXTINF:-1,Масон HD
@@ -1351,8 +1327,6 @@ http://myott.top/stream/DEKA6YA5JRN/346.m3u8
 http://myott.top/stream/DEKA6YA5JRN/325.m3u8
 #EXTINF:-1,Нано ТВ HD
 http://myott.top/stream/DEKA6YA5JRN/419.m3u8
-#EXTINF:-1,Наука
-http://myott.top/stream/DEKA6YA5JRN/403.m3u8
 #EXTINF:-1,Наша Сибирь 4K
 https://livetv.mylifeisgood.ml/channels/nashasibir4
 #EXTINF:-1,Наша Сибирь HD
@@ -1387,8 +1361,6 @@ http://myott.top/stream/DEKA6YA5JRN/399.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1,Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1,NRG 91 Music HD
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1,Stingray Alternative HD
 https://stirr.ott-channels.stingray.com/102/master.m3u8
 #EXTINF:-1,Stingray Classic Rock HD
@@ -1403,8 +1375,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?sid=0890&deviceId=5da0d83f66c9700009b96d0e&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
 #EXTINF:-1,VEVO Reggaetón & Trap (USA)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?sid=0888&deviceId=5f32f397795b750007706448&deviceVersion=DNT&appVersion=DNT&deviceType=web&deviceMake=web&advertisingId=&deviceLat=&deviceLon=&deviceDNT=0&deviceModel=web&userId=&app_name=&appName=web&serverSideAds=false&buildVersion=&architecture=&appStoreUrl=&includeExtendedEvents=false&terminate=false&marketingRegion=US
-#EXTINF:-1,Хип Хоп 359 TV
-https://cdn3.invivo.bg/359t/tracks-v1a1/mono.m3u8
 #EXTINF:-1,M2 HD
 http://live.m2.tv/hls2/720/stream.m3u8
 #EXTINF:-1,Stingray Urban Beats
@@ -1435,10 +1405,6 @@ https://livetv.mylifeisgood.ml/channels/bridgedeluxetv
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
 #EXTINF:-1,Ocko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
-#EXTINF:-1,V2BEAT HD
-http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1,V2Beat HD
-https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1,XITE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 #EXTINF:-1,TVM3
@@ -1493,8 +1459,6 @@ http://193.33.240.8:8080/muz-pervogo/tracks-v1a1/index.m3u8
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1,Kronehit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1,V2Beat TV Live
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1,Ocko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1,ÓČKO HITY
@@ -1605,8 +1569,6 @@ http://myott.top/stream/DEKA6YA5JRN/303.m3u8
 http://myott.top/stream/DEKA6YA5JRN/218.m3u8
 #EXTINF:-1,М2 HD
 http://myott.top/stream/DEKA6YA5JRN/330.m3u8
-#EXTINF:-1,Муз-ТВ
-http://myott.top/stream/DEKA6YA5JRN/86.m3u8
 #EXTINF:-1,Музыка 1 International
 http://autopilot.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1,Музыка 2 International
@@ -1625,24 +1587,16 @@ http://176.74.80.162:8099/SonyTurbo/index.m3u8
 http://176.74.80.162:8099/SonySciFi/index.m3u8
 #EXTINF:-1,Amedia 1
 http://31.148.48.15:80/A1/index.m3u8?token=test
-#EXTINF:-1,Amedia Premium HD
-http://myott.top/stream/DEKA6YA5JRN/151.m3u8
 #EXTINF:-1,Cinema
 http://myott.top/stream/DEKA6YA5JRN/62.m3u8
 #EXTINF:-1,Enter-фильм HD
 http://myott.top/stream/DEKA6YA5JRN/322.m3u8
-#EXTINF:-1,FAN
-http://myott.top/stream/DEKA6YA5JRN/420.m3u8
 #EXTINF:-1,Fresh Family HD
 http://myott.top/stream/DEKA6YA5JRN/427.m3u8
-#EXTINF:-1,Fresh Horror HD
-http://myott.top/stream/DEKA6YA5JRN/431.m3u8
 #EXTINF:-1,Fresh Premiere HD
 http://myott.top/stream/DEKA6YA5JRN/424.m3u8
 #EXTINF:-1,Fresh Series HD
 http://myott.top/stream/DEKA6YA5JRN/430.m3u8
-#EXTINF:-1,Fresh VHS HD
-http://myott.top/stream/DEKA6YA5JRN/428.m3u8
 #EXTINF:-1,kino 13
 https://v2.catcast.tv/content/40546/index.m3u8
 #EXTINF:-1,Kinoman
@@ -1659,8 +1613,6 @@ https://livetv.mylifeisgood.ml/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
 https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
 #EXTINF:-1,Trash
 https://livetv.mylifeisgood.ml/channels/trash.m3u8
-#EXTINF:-1,TV1000 Action HD
-https://livetv.mylifeisgood.ml/channels/tv1000action.m3u8
 #EXTINF:-1,TV1000 HD
 https://livetv.mylifeisgood.ml/channels/tv1000.m3u8
 #EXTINF:-1,TV1000 Русское кино
@@ -1749,8 +1701,6 @@ http://myott.top/stream/DEKA6YA5JRN/306.m3u8
 http://myott.top/stream/DEKA6YA5JRN/347.m3u8
 #EXTINF:-1,Da Vinci
 https://livetv.mylifeisgood.ml/channels/davinci.m3u8
-#EXTINF:-1,Disney Channel JP
-http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 #EXTINF:-1,Gulli Girl
 https://livetv.mylifeisgood.ml/channels/gulli.m3u8
 #EXTINF:-1,Nickelodeon HD
@@ -1781,20 +1731,6 @@ https://livetv.mylifeisgood.ml/channels/ryjii.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
 #EXTINF:-1,CTC Kids
 http://37.17.14.149:8903/play/a006?token=iptv.org.ua
-#EXTINF:-1,ТНТ-International
-http://178.124.210.172:8000/play/a03d/index.m3u8
-#EXTINF:-1,1HD
-http://178.124.210.172:8000/play/a03c/index.m3u8
-#EXTINF:-1,AIVA TV
-http://178.124.210.172:8000/play/a03b/index.m3u8
-#EXTINF:-1,Кухня ТВ
-http://178.124.210.172:8000/play/a03e/index.m3u8
-#EXTINF:-1,Сказки зайки
-http://178.124.210.172:8000/play/a03r/index.m3u8
-#EXTINF:-1,Теледом
-http://178.124.210.172:8000/play/a032/index.m3u8
-#EXTINF:-1,TIMELESS IZI CHANNEL
-http://178.124.210.172:8000/play/a02s/index.m3u8
 #EXTINF:-1,Discovery Central Europe HD
 http://91.146.94.234:10001/play/a041
 #EXTINF:-1,Discovery Turbo Xtra HD
@@ -2097,12 +2033,6 @@ http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
 http://myott.top/stream/DEKA6YA5JRN/300.m3u8
 #EXTINF:-1,Старт Триумф HD
 https://livetv.mylifeisgood.ml/channels/f212f85fdfe6a0f13a4cf54930216bee.m3u8
-#EXTINF:-1,Bein Sports Premium 1
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:-1,Bein Sports Premium 2
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:-1,Bein Sports Premium 3
-http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1,Венера 9
 https://livetv.mylifeisgood.ml/channels/5a2d552d958bb1a5ed5d76b042a64c41.m3u8
 #EXTINF:-1,Фобос 19
@@ -2431,14 +2361,8 @@ http://212.0.215.106/FilmUaDrama/mpegts
 http://212.0.215.106/Minimax/mpegts
 #EXTINF:-1,Disney
 http://89.37.104.9/DisneyChannel/mpegts
-#EXTINF:-1,Первый HD
-http://hez1-flu.iptvstream.site/5/tracks-v1a1/mono.m3u8?token=871576%2C%2C%2C1743737355
-#EXTINF:-1,Россия 1 HD
-http://hez1-flu.iptvstream.site/7/tracks-v1a1/mono.m3u8?token=871576%2C%2C%2C1743737355
 #EXTINF:-1,Россия-Культура
 http://176.222.190.76/btv/icon/RussiaK/RussiaK.m3u8
-#EXTINF:-1,РТР Планета
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/4941?ext=.m3u8
 #EXTINF:-1,НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,НТВ Мир
@@ -2471,18 +2395,12 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8?telegramm
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9kOTQ3OTIzNS1mODU4LTQ1YTItOTU3MS0wOWU3ODg5YmI0Nzcvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1,ТВЦ
 http://176.222.190.76/btv/SWM/TVCentr/TVCentr.m3u8
-#EXTINF:-1,ТВЦ International
-http://31.40.149.157:9981/stream/channelid/79349906?ticket=734FCB1840678E7DB7D9B7C0478A156BC4819016&profile=pass
 #EXTINF:-1,Дом Кино
 http://176.222.190.76/btv/SWM/Dom_Kino/Dom_Kino.m3u8
 #EXTINF:-1,Дом Кино Премиум HD
 http://176.222.190.76/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
-#EXTINF:-1,Домашний
-http://31.40.149.157:9981/stream/channelid/1225371459?ticket=5D8A80D9558F1FABA9A9CDC79880B7D7B276CE2A&profile=pass
 #EXTINF:-1,Феникс Плюс Кино
 http://176.222.190.76/btv/SWM/phoenix/phoenix.m3u8
-#EXTINF:-1,Победа
-http://188.143.128.22:30001/play/p180
 #EXTINF:-1,День Победы
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/5054/index.m3u8
 #EXTINF:-1,Пятница HD
@@ -2517,8 +2435,6 @@ http://138.201.67.145:8081/sarafan/index.m3u8
 http://176.222.190.76/btv/icon/Telecafe/Telecafe.m3u8
 #EXTINF:-1,Ностальгия
 http://146.158.0.56/Nostalgiya/index.m3u8
-#EXTINF:-1,Москва Доверие
-https://livetv.mylifeisgood.ml/channels/moscvadoverie.m3u8
 #EXTINF:-1,Время
 http://176.222.190.76/btv/SWM/Vremya/Vremya.m3u8
 #EXTINF:-1,Советские Мультфильмы
@@ -2537,8 +2453,6 @@ http://176.222.190.76/btv/SWM/animal_hd/animal_hd.m3u8
 http://31.148.48.15:80/HD_Life/index.m3u8
 #EXTINF:-1,Моя Планета
 http://176.222.190.76/btv/SWM/PlanetaHD/PlanetaHD.m3u8
-#EXTINF:-1,viju+ Planet
-https://fr01.spr24.net/263/mpegts?token=RS4xPcxNrfbXwZ
 #EXTINF:-1,viju History
 http://176.222.190.76/btv/SWM/viasathistoryhd/viasathistoryhd.m3u8
 #EXTINF:-1,viju Nature
@@ -2557,8 +2471,6 @@ http://streamer1.ruslanatv.ru/russia/poehali_2023/playlist.m3u8
 http://93.125.34.51:30002/tvc/index.m3u8
 #EXTINF:-1,Приключения HD
 http://176.222.190.76/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
-#EXTINF:-1,Криминал HD
-https://fr01.spr24.net/20776/mpegts?token=RS4xPcxNrfbXwZ
 #EXTINF:-1,START Air HD
 http://176.222.190.76/btv/SWM/start_air_hd/start_air_hd.m3u8
 #EXTINF:-1,START World HD
@@ -2587,8 +2499,6 @@ http://45.11.139.43:8081/stream/mjkino/hls/playlist.m3u8
 http://212.73.75.200:8000/play/Auto24
 #EXTINF:-1,Родное кино
 http://212.73.75.200:8000/play/PadnoeKino
-#EXTINF:-1,Индийское кино
-http://188.143.128.22:30001/play/p140
 #EXTINF:-1,Индия
 http://212.73.75.200:8000/play/India
 #EXTINF:-1,viju+ Premiere
@@ -2605,8 +2515,6 @@ http://streamer1.ruslanatv.ru/russia/tv1000_sd_new_2023/playlist.m3u8
 http://176.222.190.76/btv/SWM/tv1000actionhd/tv1000actionhd.m3u8
 #EXTINF:-1,viju TV1000 Русское
 http://176.222.190.76/btv/SWM/tv1000rukinohd/tv1000rukinohd.m3u8
-#EXTINF:-1,TV1000 World Kino
-https://fr01.spr24.net/430/mpegts?token=RS4xPcxNrfbXwZ
 #EXTINF:-1,НСТ
 http://176.222.190.76/btv/SWM/HCT/HCT.m3u8
 #EXTINF:-1,Премиальное HD
@@ -2619,8 +2527,6 @@ http://37.29.23.129:4000/play/a00i/index.m3u8
 http://41a13220.ottolok.net/iptv/3WURL7P6THE3QU/7247/index.m3u8
 #EXTINF:-1,Романтичное HD
 http://4162b551.russtv.net/iptv/HDG6U6ZK4GKM8Y/5053/index.m3u8
-#EXTINF:-1,Криминальное HD
-https://fr01.spr24.net/20808/mpegts?token=RS4xPcxNrfbXwZ
 #EXTINF:-1,Комедийное HD
 http://4162b551.russtv.net/iptv/HDG6U6ZK4GKM8Y/912/index.m3u8
 #EXTINF:-1,Наше Крутое HD
@@ -2701,14 +2607,10 @@ http://4162b551.russtv.net/iptv/HDG6U6ZK4GKM8Y/2438/index.m3u8
 http://4162b551.russtv.net/iptv/HDG6U6ZK4GKM8Y/2430/index.m3u8
 #EXTINF:-1,Камеди HD
 http://4162b551.russtv.net/iptv/HDG6U6ZK4GKM8Y/2441/index.m3u8
-#EXTINF:-1,Кинопоказ HD
-http://31.184.193.25:30001/play/p24
 #EXTINF:-1,КиноСат
 http://88.216.83.245/nicktoons/index.m3u8
 #EXTINF:-1,Cinema
 http://176.222.190.76/btv/SWM/CINEMA/CINEMA.m3u8
-#EXTINF:-1,Cinema Classic
-https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
 #EXTINF:-1,Plan B
 http://176.222.190.76/btv/SWM/plan_b/plan_b.m3u8
 #EXTINF:-1,FlixSnip
@@ -2717,28 +2619,16 @@ https://sc.id-tv.kz/FlixSnip.m3u8
 http://176.107.250.4:8003/ch91
 #EXTINF:-1,Trash
 http://176.222.190.76/btv/SWM/trash_hd/trash_hd.m3u8
-#EXTINF:-1,KinoJam 1 HD
-http://31.40.149.157:9981/stream/channelid/569348234?ticket=B79E4CD2A5033CBB47CF50B8DAF469CB83C942E1&profile=pass
-#EXTINF:-1,KinoJam 2 HD
-http://31.40.149.157:9981/stream/channelid/489819363?ticket=BFE8C000C1BD71B0BB061DC45D0ED87BEB47DF32&profile=pass
-#EXTINF:-1,Смотрим live
-https://vgtrksmotrim.cdnvideo.ru/iframe/stream/live_id/64022
 #EXTINF:-1,KINO24
 http://146.158.0.56:80/Pro100TV/mono.m3u8
 #EXTINF:-1,Backus TV
 https://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1,Backus TV Dark HD
 https://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1,БелРос
-rtmp://5.182.231.251//2063
-#EXTINF:-1,Космос ТВ HD
-rtmp://5.182.231.251//2185
 #EXTINF:-1,Dizi
 http://77.240.45.106:8888/play/a01x
 #EXTINF:-1,Т+
 http://213.108.175.226/telplushd/index.m3u8
-#EXTINF:-1,Советские мультфильмы
-http://fs1.persik.by/409142/index.m3u8
 #EXTINF:-1,Биография HD
 http://fs1.persik.by/408974_2/index.m3u8
 #EXTINF:-1,Боевик HD
@@ -2747,8 +2637,6 @@ http://fs1.persik.by/409104_2/index.m3u8
 http://fs2.persik.by/488213/index.m3u8
 #EXTINF:-1,Вдохновение HD
 http://fs2.persik.by/447588/index.m3u8
-#EXTINF:-1,Военный HD
-http://fs1.persik.by/409109/index.m3u8
 #EXTINF:-1,Выпечка
 http://fs2.persik.by/466202/index.m3u8
 #EXTINF:-1,Детектив HD
@@ -2759,8 +2647,6 @@ http://fs1.persik.by/484215_2/index.m3u8
 http://fs2.persik.by/409143/index.m3u8
 #EXTINF:-1,Детский HD
 http://fs1.persik.by/409111/index.m3u8
-#EXTINF:-1,Документальное HD
-http://fs1.persik.by/409112/index.m3u8
 #EXTINF:-1,Дружба HD
 http://fs2.persik.by/447586/index.m3u8
 #EXTINF:-1,Европейское кино HD
@@ -2769,8 +2655,6 @@ http://fs1.persik.by/447583_2/index.m3u8
 http://fs1.persik.by/409114_2/index.m3u8
 #EXTINF:-1,КиноТОП HD
 http://fs1.persik.by/409135/index.m3u8
-#EXTINF:-1,Комедия HD
-http://fs1.persik.by/409116/index.m3u8
 #EXTINF:-1,Криминал HD
 http://fs1.persik.by/409117/index.m3u8
 #EXTINF:-1,Любовь HD
@@ -2809,8 +2693,6 @@ http://fs1.persik.by/482900_2/index.m3u8
 http://fs1.persik.by/483816/index.m3u8
 #EXTINF:-1,Экранизации HD
 http://fs2.persik.by/447587_2/index.m3u8
-#EXTINF:-1,Американские комедии
-http://fs1.persik.by/394997_2/index.m3u8
 #EXTINF:-1,Биография
 http://fs1.persik.by/483541/index.m3u8
 #EXTINF:-1,Военные сериалы
@@ -2887,10 +2769,6 @@ http://fs1.persik.by/488227_2/index.m3u8
 http://fs1.persik.by/487750_2/index.m3u8
 #EXTINF:-1,Сериалы мелодрамы HD
 http://fs1.persik.by/489803/index.m3u8
-#EXTINF:-1,Советские новогодние фильмы
-http://fs1.persik.by/476229/index.m3u8
-#EXTINF:-1,Советские сериалы
-http://fs1.persik.by/483100/index.m3u8
 #EXTINF:-1,Топ кино HD
 http://fs1.persik.by/482444_2/index.m3u8
 #EXTINF:-1,Триллер HD
