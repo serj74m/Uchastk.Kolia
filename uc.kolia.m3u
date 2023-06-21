@@ -11,6 +11,8 @@ http://80.251.49.103:8002/play/302
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,116 НТВ HD
+http://80.251.49.103:8003/play/116
 #EXTINF:-1,СТС HD
 http://185.23.80.25:8080/STS/index.m3u8
 #EXTINF:-1,РЕН HD
